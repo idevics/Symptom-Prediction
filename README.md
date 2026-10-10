@@ -1,4 +1,4 @@
-# Disease Prediction Using PyTorch
+# Disease Prediction
 
 ## Overview
 This project uses a neural network built with PyTorch to predict possible diseases based on user-provided symptoms.
